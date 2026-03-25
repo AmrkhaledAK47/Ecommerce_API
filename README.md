@@ -7,7 +7,6 @@ A layered .NET 10 backend solution for e-commerce, organized into:
 - `ECommerce.DAL` – Entity Framework Core data access, repositories, unit of work, migrations, and seed data.
 - `ECommerce.Common` – shared result models, filtering, and pagination utilities.
 
-> `ECommerce.MVC` is intentionally not part of this repository scope.
 
 ## Tech Stack
 
