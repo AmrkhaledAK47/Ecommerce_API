@@ -1,0 +1,20 @@
+# Build output
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs and temp
+*.log
+Logs/
+
+# IDE folders
+.vs/
+.vscode/
+
+# Exclude MVC project from this API repository
+ECommerce.MVC/
